@@ -78,7 +78,7 @@ img {
 
 <h2 style="font-family: helvetica" align="center"><marquee>Welcome to my Personal Website.</marquee></h2>
 <img src="B612-2017-11-12-14-32-33.jpg" width="400px" height="300px">
-<a href="navbar.html">
+<a href="bio.html">
 <button class="button">Continue</button></a>
 
 
